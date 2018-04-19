@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-shoveler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shovel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jens Bissinger",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
